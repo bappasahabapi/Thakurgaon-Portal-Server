@@ -1,0 +1,18 @@
+[
+    {
+        "catagory_id":"01",
+        "catagory_name":"Breaking News"
+    },
+    {
+        "catagory_id":"02",
+        "catagory_name":"Regular News"
+    },
+    {
+        "catagory_id":"03",
+        "catagory_name":"Soprts News"
+    },
+    {
+        "catagory_id":"04",
+        "catagory_name":"Local News"
+    }
+]
