@@ -7,3 +7,4 @@
     npm install -g nodemon
     npm init -y
     npm install express
+    npm install cors

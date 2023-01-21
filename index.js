@@ -1,9 +1,13 @@
 const express =require('express')
-const app = express()
-const port = process.env.port || 9000
+const app = express();
+const cors =require('cors')
+
+const port = process.env.port || 5000
+
+app.use(cors());
 
 
-const catagories =require('./database/catagories.json');
+const catagories =require('./database/categories.json');
 const news =require('./database/news.json');
 
 
