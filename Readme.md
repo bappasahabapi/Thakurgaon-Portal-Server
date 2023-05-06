@@ -1,4 +1,7 @@
- `1. To run the server `
+[Live-server-url:](https://thakurgaon-portal-server-bappasahabapi.vercel.app/news) 
+
+
+`1. To run the server `
  
     nodemon index.js
 
