@@ -12,7 +12,9 @@ const news =require('./database/news.json');
 
 
 app.get('/',(req, res)=>{
-    res.send('TG-Portal Server is Running ... ')
+    res.send('TG-Portal Server is Running ... and type /news ');
+    
+   
 });
 
 app.get('/news-categories',(req,res)=>{
